@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fedcc1dc-51d0-498c-aa35-aed6ce9da3e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache" />
+        <option name="userSettingsFile" value="D:\Maven\apache\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f7WHD9j6erYHxDZwCPod2kPOoR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/liusheng/topic" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liusheng.pusub" />
+      <recent name="com.liusheng.work" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learn\Java\RabbitMQDemo\src\main\java\com\liusheng\topic" />
+      <recent name="E:\Learn\Java\RabbitMQDemo\src\main\java\com\liusheng\routing" />
+      <recent name="E:\Learn\Java\RabbitMQDemo\src\main\java\com\liusheng\pusub" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RetuenTest.demo1">
+    <configuration name="MyTest.c" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liusheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liusheng.test.MyTest" />
+      <option name="METHOD_NAME" value="c" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetuenTest.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liusheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liusheng.test.RetuenTest" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicTest.c1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liusheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liusheng.test.TopicTest" />
+      <option name="METHOD_NAME" value="c1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicTest.c2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liusheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liusheng.test.TopicTest" />
+      <option name="METHOD_NAME" value="c2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicTest.p" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liusheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.liusheng.test.TopicTest" />
+      <option name="METHOD_NAME" value="p" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RetuenTest.demo1" />
+        <item itemvalue="JUnit.MyTest.c" />
+        <item itemvalue="JUnit.TopicTest.p" />
+        <item itemvalue="JUnit.TopicTest.c1" />
+        <item itemvalue="JUnit.TopicTest.c2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fedcc1dc-51d0-498c-aa35-aed6ce9da3e8" name="Default Changelist" comment="" />
+      <created>1595569521456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595569521456</updated>
+      <workItem from="1595569523499" duration="12254000" />
+      <workItem from="1595637007726" duration="10234000" />
+      <workItem from="1595655696034" duration="1423000" />
+      <workItem from="1595667442858" duration="9455000" />
+      <workItem from="1595724571353" duration="1167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1595599176210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595599176210" />
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1595693472321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595693472321" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1595693472321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595693472321" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1595693472321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595693472321" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1595693472321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595693472321" />
+    <state width="1877" height="227" key="GridCell.Tab.1.bottom" timestamp="1595605483748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595605483748" />
+    <state width="1877" height="227" key="GridCell.Tab.1.center" timestamp="1595605483748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595605483748" />
+    <state width="1877" height="227" key="GridCell.Tab.1.left" timestamp="1595605483748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595605483748" />
+    <state width="1877" height="227" key="GridCell.Tab.1.right" timestamp="1595605483748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595605483748" />
+    <state x="631" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1595725292817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595725292817" />
+  </component>
+</project>
